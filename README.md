@@ -11,7 +11,10 @@
     <img align="center" alt="Monique-html" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Monique-css" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Monique-python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Monique-photoshop" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+    <img align="center" alt="Monique-bootstrap" heigth="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="Monique-photoshop" heigth="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Monique-illustrator" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
  </div>  
 
@@ -20,9 +23,10 @@
  <div>
    <a href="https://www.linkedin.com/in/moniquecaroline" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/monique.caroline/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.behance.net/monique_caroline" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23E4405F?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
    <a href="mailto:monique.cgd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-   ![Snake animation](https://github.com/rafaballerini/monique-caroline/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/monique-caroline/monique-caroline/blob/output/github-contribution-grid-snake.svg)
    
  </div>
   
