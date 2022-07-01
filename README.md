@@ -1,4 +1,14 @@
-## Olá, eu sou a Monique Caroline 🚀
+## Hi, I'm Monique Caroline 🚀
+
+
+📌 Web Author  
+
+📌 AEM Cloud 
+
+📌 Front-end enthusiastic 
+
+📌 Graduated in Design de Mídias Digitais
+
 
 <div>
   <a href="https://github.com/monique-caroline">
